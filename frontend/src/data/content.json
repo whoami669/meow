@@ -1,0 +1,323 @@
+{
+  "site": {
+    "title": "OCE Live Link-Up — United or Nothing",
+    "subtitle": "A safer, united OCE community. Clear rules, structured channels, and real support.",
+    "discordInvite": "https://discord.gg/uTJ95jVq",
+    "description": "OCE Live Link-Up — OCE Community Hub (Fortnite & Phasmophobia)",
+    "tagline": "Unity over ego. Support over clout. Safety over everything."
+  },
+  "hero": {
+    "title": "OCE Live Link-Up",
+    "subtitle": "United or Nothing",
+    "description": "A safer, united OCE community focused on Fortnite and Phasmophobia. Clear rules, structured channels, and real support.",
+    "badges": [
+      { "icon": "gamepad-2", "text": "Fortnite" },
+      { "icon": "ghost", "text": "Phasmophobia" },
+      { "icon": "shield-check", "text": "Safety-First" },
+      { "icon": "user-x", "text": "Zero Doxxing" },
+      { "icon": "balance-scale", "text": "Accountability" }
+    ]
+  },
+  "mission": {
+    "title": "Mission & Purpose",
+    "subtitle": "Why OCE Live Link-Up Exists",
+    "content": "Unity over ego. Safety over clout. We're building a space where OCE talent can thrive without the noise. No drama, no doxxing, no harassment. Just real support and genuine community.",
+    "values": [
+      {
+        "icon": "users",
+        "title": "Unity First",
+        "description": "Bringing OCE together instead of tearing it apart"
+      },
+      {
+        "icon": "shield",
+        "title": "Safety Standards",
+        "description": "Zero tolerance for doxxing, harassment, or witch-hunts"
+      },
+      {
+        "icon": "heart",
+        "title": "Real Support",
+        "description": "Genuine help over fake outrage and clout chasing"
+      }
+    ]
+  },
+  "safetyCharter": {
+    "title": "Safety Charter",
+    "subtitle": "Non-Negotiable Standards",
+    "rules": [
+      {
+        "icon": "user-x",
+        "title": "No Doxxing",
+        "description": "Sharing personal information is an instant ban"
+      },
+      {
+        "icon": "shield-x",
+        "title": "No Harassment",
+        "description": "No witch-hunts, targeted attacks, or mob mentality"
+      },
+      {
+        "icon": "lock",
+        "title": "Consent & Privacy",
+        "description": "Respect boundaries and privacy at all times"
+      },
+      {
+        "icon": "flag",
+        "title": "Report Fast",
+        "description": "Quick reporting leads to quick action"
+      },
+      {
+        "icon": "balance-scale",
+        "title": "Fair Appeals",
+        "description": "Everyone deserves a fair appeal process"
+      }
+    ],
+    "workflow": {
+      "title": "Safety Workflow",
+      "steps": [
+        { "step": "Report", "description": "Issue reported to mods" },
+        { "step": "Triage", "description": "Severity assessment" },
+        { "step": "Action", "description": "Appropriate response taken" },
+        { "step": "Notify", "description": "All parties informed" },
+        { "step": "Appeal", "description": "Fair review process" }
+      ]
+    }
+  },
+  "channels": {
+    "title": "Channel Directory",
+    "subtitle": "Map the Server",
+    "categories": [
+      {
+        "name": "Start Here",
+        "emoji": "🚀",
+        "channels": [
+          { "name": "welcome", "emoji": "👋", "purpose": "New member greetings", "rules": "Be welcoming and respectful" },
+          { "name": "rules", "emoji": "📋", "purpose": "Server rules and guidelines", "rules": "Read and follow all rules" },
+          { "name": "verify", "emoji": "✅", "purpose": "Account verification", "rules": "Complete verification to access server" },
+          { "name": "announcements", "emoji": "📢", "purpose": "Important server updates", "rules": "Announcements only, no replies" },
+          { "name": "status", "emoji": "🔧", "purpose": "Server status updates", "rules": "Bot-only channel" },
+          { "name": "server-roadmap", "emoji": "🗺️", "purpose": "Development plans", "rules": "Discussion welcome" },
+          { "name": "roles", "emoji": "🎭", "purpose": "Self-assign roles", "rules": "Follow role assignment instructions" }
+        ]
+      },
+      {
+        "name": "Info Desk",
+        "emoji": "ℹ️",
+        "channels": [
+          { "name": "suggestions", "emoji": "💡", "purpose": "Server improvement ideas", "rules": "Constructive suggestions only" },
+          { "name": "faq", "emoji": "❓", "purpose": "Frequently asked questions", "rules": "Check here before asking" },
+          { "name": "links", "emoji": "🔗", "purpose": "Useful community links", "rules": "Relevant links only" },
+          { "name": "support", "emoji": "🆘", "purpose": "Get help with server issues", "rules": "Be specific about your issue" }
+        ]
+      },
+      {
+        "name": "Events & LFG",
+        "emoji": "🎮",
+        "channels": [
+          { "name": "events-calendar", "emoji": "📅", "purpose": "Upcoming community events", "rules": "RSVP for events" },
+          { "name": "lfg-fortnite", "emoji": "⚡", "purpose": "Find Fortnite teammates", "rules": "Include platform and skill level" },
+          { "name": "lfg-phas", "emoji": "👻", "purpose": "Find Phasmophobia groups", "rules": "State experience level" },
+          { "name": "lfg-general", "emoji": "🎯", "purpose": "Other games LFG", "rules": "Specify game and requirements" }
+        ]
+      },
+      {
+        "name": "Voice & Stage",
+        "emoji": "🎤",
+        "channels": [
+          { "name": "Town Hall", "emoji": "🏛️", "purpose": "Community discussions", "rules": "Respectful debate only" },
+          { "name": "Creator Panels", "emoji": "🎬", "purpose": "Creator talks and Q&As", "rules": "Scheduled events only" }
+        ]
+      },
+      {
+        "name": "Regional",
+        "emoji": "🌏",
+        "channels": [
+          { "name": "aus-chat", "emoji": "🇦🇺", "purpose": "Australia general chat", "rules": "Keep it friendly" },
+          { "name": "nz-chat", "emoji": "🇳🇿", "purpose": "New Zealand general chat", "rules": "Kia ora and be respectful" },
+          { "name": "pacific-chat", "emoji": "🏝️", "purpose": "Pacific Islands chat", "rules": "All Pacific friends welcome" }
+        ]
+      },
+      {
+        "name": "Fun & Community",
+        "emoji": "🎉",
+        "channels": [
+          { "name": "challenges", "emoji": "🏆", "purpose": "Community challenges", "rules": "Participate and have fun" },
+          { "name": "general-chat", "emoji": "💬", "purpose": "Casual conversation", "rules": "Keep it clean and friendly" }
+        ]
+      },
+      {
+        "name": "Games & Hobbies",
+        "emoji": "🎲",
+        "channels": [
+          { "name": "game-chat", "emoji": "🎮", "purpose": "General gaming discussion", "rules": "All games welcome" },
+          { "name": "board-games", "emoji": "♟️", "purpose": "Board game discussions", "rules": "Share your favorite games" },
+          { "name": "racing", "emoji": "🏎️", "purpose": "Racing game talk", "rules": "All racing games included" },
+          { "name": "sports", "emoji": "⚽", "purpose": "Sports discussion", "rules": "Real and virtual sports" },
+          { "name": "food-recipes", "emoji": "🍳", "purpose": "Cooking and recipes", "rules": "Share your culinary creations" }
+        ]
+      },
+      {
+        "name": "Art & Creativity",
+        "emoji": "🎨",
+        "channels": [
+          { "name": "digital-art", "emoji": "🖥️", "purpose": "Digital artwork sharing", "rules": "Original content preferred" },
+          { "name": "photography", "emoji": "📸", "purpose": "Photo sharing and tips", "rules": "Credit original photographers" },
+          { "name": "writing", "emoji": "✍️", "purpose": "Creative writing", "rules": "All genres welcome" },
+          { "name": "music-production", "emoji": "🎵", "purpose": "Music creation and sharing", "rules": "Original work encouraged" }
+        ]
+      },
+      {
+        "name": "Challenges",
+        "emoji": "🏅",
+        "channels": [
+          { "name": "weekly-challenge", "emoji": "📆", "purpose": "Weekly community challenges", "rules": "Follow challenge guidelines" },
+          { "name": "tournament-signup", "emoji": "🏆", "purpose": "Tournament registration", "rules": "Register within deadlines" }
+        ]
+      },
+      {
+        "name": "Safety Center",
+        "emoji": "🛡️",
+        "channels": [
+          { "name": "reports", "emoji": "🚨", "purpose": "Report issues privately", "rules": "Serious reports only" },
+          { "name": "mod-log", "emoji": "📝", "purpose": "Moderation actions log", "rules": "Transparency in moderation" },
+          { "name": "raids-monitor", "emoji": "🔍", "purpose": "Raid protection status", "rules": "Automated monitoring" },
+          { "name": "escalations", "emoji": "⚠️", "purpose": "Escalated issues", "rules": "Admin-level reviews" }
+        ]
+      }
+    ]
+  },
+  "creatorHub": {
+    "title": "Creator Hub",
+    "subtitle": "Support for Content Creators",
+    "features": [
+      {
+        "icon": "video",
+        "title": "Clips & Edits",
+        "description": "Share your best moments and collaborative edits"
+      },
+      {
+        "icon": "users",
+        "title": "Collab Board",
+        "description": "Find creators to collaborate with on projects"
+      },
+      {
+        "icon": "image",
+        "title": "Graphic Requests",
+        "description": "Get help with thumbnails, overlays, and graphics"
+      }
+    ]
+  },
+  "founderLetter": {
+    "title": "Founder's Letter",
+    "author": "Raul",
+    "content": [
+      "I'm Raul. If you've seen me around OCE, you've seen the highs and the lows. I used to add fuel to the wrong fires. I won't pretend that didn't happen. But growth isn't a headline—it's a pattern. I'm changing my pattern.",
+      "What I stand on now: OCE is worth protecting. Our talent is real; the noise isn't. Doxxing isn't content—it's damage. Hypocrisy kills scenes. Grudges are dead weight.",
+      "People say 'you can't change.' I'm not asking permission. I'm building spaces where change is normal and support is louder than drama. Some will drag me because they 'did it first.' I'm not chasing credit—I'm chasing results. I've been speaking on what's broken in OCE for a minute—including in my music—and I'll keep doing it. Not for clout—for progress.",
+      "If you're here to help, I'll take every hand offered. If you're here to gatekeep, stand aside. We're moving either way.",
+      "OCE Live Link-Up is clarity over chaos, accountability over ego, and real support over fake outrage. If that's your energy, welcome."
+    ]
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "subtitle": "Our Path Forward",
+    "phases": [
+      {
+        "phase": "Phase 1",
+        "title": "Foundation",
+        "status": "Complete",
+        "date": "Q4 2024",
+        "description": "Server setup, basic rules, channel structure",
+        "items": ["Server creation", "Channel setup", "Basic moderation", "Safety rules"]
+      },
+      {
+        "phase": "Phase 2",
+        "title": "Community Quality",
+        "status": "In Progress",
+        "date": "Q1 2025",
+        "description": "Enhanced safety measures and community building",
+        "items": ["Advanced moderation", "Creator support", "Event planning", "Member onboarding"]
+      },
+      {
+        "phase": "Phase 3",
+        "title": "Growth & Learning",
+        "status": "Planned",
+        "date": "Q2 2025",
+        "description": "Expanding reach while maintaining quality",
+        "items": ["Educational content", "Skill sharing", "Mentorship programs", "Community challenges"]
+      },
+      {
+        "phase": "Phase 4",
+        "title": "Partnerships",
+        "status": "Planned",
+        "date": "Q3 2025",
+        "description": "Strategic partnerships and collaborations",
+        "items": ["Creator partnerships", "Brand collaborations", "Tournament hosting", "Cross-community events"]
+      }
+    ]
+  },
+  "roles": {
+    "title": "Roles & How to Join",
+    "subtitle": "Self-Assign Your Identity",
+    "categories": [
+      {
+        "title": "Player Type",
+        "options": ["Player", "Creator", "Clan Member", "Clan Leader"]
+      },
+      {
+        "title": "Games",
+        "options": ["Fortnite", "Phasmophobia", "Both"]
+      },
+      {
+        "title": "Platform",
+        "options": ["PC", "Console", "Mobile"]
+      },
+      {
+        "title": "Input",
+        "options": ["Keyboard & Mouse", "Controller", "Both"]
+      },
+      {
+        "title": "Phasmophobia Experience",
+        "options": ["Beginner", "Intermediate", "Expert", "Professional"]
+      },
+      {
+        "title": "Notifications",
+        "options": ["@Announcements", "@Stream Support", "@Events"]
+      }
+    ],
+    "steps": [
+      "Join the Discord server",
+      "Read the rules and safety charter",
+      "Complete verification process",
+      "Visit the #roles channel",
+      "Select your roles using the self-assign menu"
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Who can join OCE Live Link-Up?",
+        "answer": "Anyone from the OCE region interested in Fortnite or Phasmophobia who agrees to follow our safety charter and community rules."
+      },
+      {
+        "question": "Is doxxing really a permanent ban?",
+        "answer": "Yes, absolutely. Sharing personal information without consent results in an immediate permanent ban with no appeal process."
+      },
+      {
+        "question": "How do I report someone?",
+        "answer": "Use the #reports channel for serious issues, DM a moderator for urgent matters, or use Discord's built-in reporting system."
+      },
+      {
+        "question": "How do I find teammates?",
+        "answer": "Check the LFG channels (#lfg-fortnite, #lfg-phas, #lfg-general) and include your platform, skill level, and what you're looking for."
+      },
+      {
+        "question": "Are there posting limits?",
+        "answer": "Use common sense. Don't spam, flood channels, or post the same message multiple times. Quality over quantity."
+      },
+      {
+        "question": "How do I get announcements pings?",
+        "answer": "Assign yourself the @Announcements role in the #roles channel to get notified of important server updates."
+      }
+    ]
+  }
+}
